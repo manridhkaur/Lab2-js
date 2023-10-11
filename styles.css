@@ -1,0 +1,27 @@
+
+
+body {
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #db34c5;
+}
+
+p {
+    font-size: 1.2em;
+    color: #ecf0f1;
+}
+
+label {
+    display: flex;
+    margin: 10px;
+    font-size: 1.2em;
+    color: #ecf0f1;
+}
+
+input {
+    width: 80%;
+    margin: 10px;
+}
